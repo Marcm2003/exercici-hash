@@ -1,0 +1,7 @@
+C:\Users\marcm\Desktop\exercici-hash\hash01\bin\Debug\hash01.exe.config
+C:\Users\marcm\Desktop\exercici-hash\hash01\bin\Debug\hash01.exe
+C:\Users\marcm\Desktop\exercici-hash\hash01\bin\Debug\hash01.pdb
+C:\Users\marcm\Desktop\exercici-hash\hash01\obj\Debug\hash01.csproj.AssemblyReference.cache
+C:\Users\marcm\Desktop\exercici-hash\hash01\obj\Debug\hash01.csproj.CoreCompileInputs.cache
+C:\Users\marcm\Desktop\exercici-hash\hash01\obj\Debug\hash01.exe
+C:\Users\marcm\Desktop\exercici-hash\hash01\obj\Debug\hash01.pdb
