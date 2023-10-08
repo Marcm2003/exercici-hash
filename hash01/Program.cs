@@ -35,7 +35,9 @@ namespace hash01
                 // cal convertir-lo a un string
                     String textOut = BitConverter.ToString(hashResult).Replace("-", string.Empty);
 
-                    Console.WriteLine("Text: {0}", fileContents);
+                    string hashFilePath = Path.ChangeExtension(filePath, ".SHA");
+                    File.WriteAllText(hashFilePath, textOut);
+
                     Console.WriteLine("Hash of file {0}", filePath);
                     Console.WriteLine(textOut);
                     Console.ReadKey();
